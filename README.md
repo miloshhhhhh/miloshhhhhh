@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: mikovicemilos@gmail.com
 
-<img align="right" src="https://i.gifer.com/fetch/w300-preview/ec/ece24da41372e155a576707cf1492f63.gif" alt="Hola Coders" width="500" height="350"/> 
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/LastRectangularFairyfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
