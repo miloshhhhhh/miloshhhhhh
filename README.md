@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: mikovicemilos@gmail.com
 
-<img align="right" src="https://thumbs.gfycat.com/DefiniteImmenseHalicore-size_restricted.gif" alt="Hola Coders" width="1000" height="350"/> 
+<img align="right" src="https://cdn.dribbble.com/users/371838/screenshots/4796660/media/cb42090285eb2da3328b0b2506663667.gif" alt="Hola Coders" width="500" height="350"/> 
