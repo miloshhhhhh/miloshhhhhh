@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: mikovicemilos@gmail.com
 
-<img style="float: right;" src="https://azadshukor.com/memoji.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right;" src="https://azadshukor.com/memoji.gif" alt="Hola Coders" width="500" height="350"/> 
