@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: mikovicemilos@gmail.com
 
-<img align="right" src="https://64.media.tumblr.com/114f04c02493889929cb0ecaa441fbca/tumblr_po06d9LXbR1qeyvpto1_500.gif" alt="Hola Coders" width="500" height="350"/>
+<img align="left" src="https://64.media.tumblr.com/114f04c02493889929cb0ecaa441fbca/tumblr_po06d9LXbR1qeyvpto1_500.gif" alt="Hola Coders" width="500" height="350"/>
