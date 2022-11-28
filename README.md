@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I am a self-taught BigData engineer with professional experience in top-tier companies collaborating with domain experts to solve real-world problems. 
+I am a self-taught programmer with 2y professional experience in BigData field in top-tier companies collaborating with domain experts to solve real-world problems. 
 I have a passion for learning and sharing knowledge. 
 
 - 🔭 I’m currently working on <>
