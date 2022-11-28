@@ -1,8 +1,7 @@
-### Hi there is a
+### Hi, there 👋
 
-BigData engineer with professional experience in top-tier companies collaborating with domain experts to solve real-world problems. 
+I am a self-taught BigData engineer with professional experience in top-tier companies collaborating with domain experts to solve real-world problems. 
 I have a passion for learning and sharing knowledge. 
-I am a self-taught programmer and I am always looking for new challenges.
 
 - 🔭 I’m currently working on <>
 - 🌱 I’m currently learning Solidity
