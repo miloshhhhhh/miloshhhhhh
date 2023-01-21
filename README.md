@@ -4,7 +4,7 @@ I am a self-taught programmer with 2y professional experience in BigData field i
 I have a passion for learning and sharing knowledge. 
 
 - 🔭 I’m currently brainstorming ideas
-<!-- - 🌱 I’m currently learning Solidity -->
+- 🌱 I’m currently learning Solidity, graphql
 - 👯 I’m looking to collaborate on blockchain project
 - 💬 Ask me about anything
 - 📫 How to reach me: mikovicemilos@gmail.com
